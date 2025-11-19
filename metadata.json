@@ -1,0 +1,5 @@
+{
+  "name": "AdGenius - AI Banner Generator",
+  "description": "Generate professional, multi-format banner ads from product descriptions using Google's Imagen 3 model.",
+  "requestFramePermissions": []
+}
